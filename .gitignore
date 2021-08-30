@@ -1,0 +1,12 @@
+mosesdecoder/*
+subword-nmt/*
+checkpoints/*
+train-tensorboard/*
+data-bin/*
+pre-tensorboard/*
+*tok*
+*voc*
+*bpe*
+*.txt
+random*
+!*.py
